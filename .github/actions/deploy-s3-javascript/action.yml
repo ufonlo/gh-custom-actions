@@ -1,0 +1,3 @@
+name: 'Deploy to AWS S3'
+description: 'Deploy a static website via AWS S3.'
+runs:
